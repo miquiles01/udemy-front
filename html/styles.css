@@ -18,10 +18,10 @@ img{
     height: 35em;
     margin-top: 30px;
 }
-h2{
+#tittle{
     margin-top: 20px;
 }
-h4{
+.subtittle{
     color: #222;
     background-color: #ffff;
     opacity: 40%;
