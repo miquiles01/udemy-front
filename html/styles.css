@@ -2,4 +2,29 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #222;
     color: #ffff;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: black;
+    padding: 10px 20px;
+    border: 1px solid #ffff;
+}
+p{
+    margin-top: 10px;
+}
+img{
+    width: 100%;
+    height: 35em;
+    margin-top: 30px;
+}
+h2{
+    margin-top: 20px;
+}
+h4{
+    color: #222;
+    background-color: #ffff;
+    opacity: 40%;
+    padding: 10px;
+    margin-top: 20px;
 }
